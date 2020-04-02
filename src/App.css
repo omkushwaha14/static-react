@@ -1,0 +1,36 @@
+.App {
+  text-align: -moz-left;
+}
+
+.footer{
+  background-color:whitesmoke;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+.jumbotron {
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: dodgerblue;
+  color:floralwhite;
+}
+.address{
+  font-size:80%;
+  margin:0px;
+  color:#0f0f0f;
+}
+.row-header{
+  margin:-10px ;
+  padding:-10px ;
+}
+
+.nav{
+  background-color:black;
+  padding:20px;
+}
+
